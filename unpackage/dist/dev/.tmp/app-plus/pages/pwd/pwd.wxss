@@ -1,0 +1,16 @@
+.container .input-group {
+  margin: 20px 11px 0;
+}
+.input-row {
+  color: #FF80AB;
+}
+.input-row.border::after {
+    left: 0px;
+}
+.login {
+  background-color: #ff80ab;
+  border: #ff80ab;
+  color: #fff;
+  margin: 20px 0;
+}
+

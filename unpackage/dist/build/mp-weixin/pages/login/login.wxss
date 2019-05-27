@@ -1,0 +1,66 @@
+.action-row {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: #ff80ab;
+}
+.container .input-group {
+  margin: 20px 11px 0;
+}
+.input-row {
+  color: #ff80ab;
+}
+.input-row.border::after {
+    left: 0px;
+}
+.login {
+  background-color: #ff80ab;
+  border: #ff80ab;
+  color: #fff;
+  margin: 20px 0;
+}
+.action-row navigator {
+  color: #ff80ab;
+  padding: 0 20rpx;
+}
+.oauth-row {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 100px;
+  width: 100%;
+}
+.oauth-image {
+  width: 100rpx;
+  height: 100rpx;
+  border: 1rpx solid #dddddd;
+  border-radius: 100rpx;
+  margin: 0 40rpx;
+  background-color: #ffffff;
+}
+.oauth-image image {
+  width: 60rpx;
+  height: 60rpx;
+  margin: 20rpx;
+}
+
