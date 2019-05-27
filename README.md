@@ -1,10 +1,3 @@
-# uni-template-picture
-基于uni-app框架的看图模板，包含单列图、双列图，图片分类，图片轮播、预览、下载，图片分享、收藏，设置桌面背景图等功能。
- 
-<p align="center">
-    <img src="http://img-cdn-qiniu.dcloud.net.cn/uniapp/template/new.png" width="200"/>
-    <img src="http://img-cdn-qiniu.dcloud.net.cn/uniapp/template/hot.png" width="200"/>
-</p>
 
 
 ## 运行方式
